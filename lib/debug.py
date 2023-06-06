@@ -53,4 +53,4 @@ if __name__ == '__main__':
     # Close the session
     session.close()
 
-    ipdb.set_trace()
+    #ipdb.set_trace()
